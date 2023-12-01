@@ -1,0 +1,1 @@
+//function for playing sound when hover or click

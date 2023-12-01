@@ -6,7 +6,7 @@
 </div>
 <style>
 .box-wrap {
-   position: relative;
+   position: absolute;
    left: 168px;
    min-height: 68px;
    width: 168px;
